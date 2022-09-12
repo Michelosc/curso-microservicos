@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d15e1c7f-1df4-4a1c-a9cf-0d62b2d127e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../msavaliadorcredito/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto-cursoms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/src/main/java/io/github/cursomicroservicos/eurekaserver/EurekaserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/src/main/java/io/github/cursomicroservicos/eurekaserver/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eurekaserver/src/test/java/io/github/cursomicroservicos/eurekaserver/EurekaserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/logs/log-file.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/MsavaliadorcreditoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/application/AvaliadorCreditoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/application/AvaliadorCreditoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/application/ex/DadosClienteNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/application/ex/ErroComunicacaoMicroservicesException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/application/ex/ErroSolicitacaoCartaoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/config/MQConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/Cartao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/CartaoAprovado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/CartaoCLiente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/DadosAvaliacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/DadosCliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/DadosSolicitacaoEmissaoCartao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/ProtocoloSolicitacaoCartao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/RetornoAvaliacaoCliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/domain/model/SituacaoCliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/infra/clients/CartoesResourceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/infra/clients/ClienteResourceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/java/io/github/cursomicroservicos/msavaliadorcredito/infra/mqueue/SolicitacaoEmissaoCartaoPublisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msavaliadorcredito/src/test/java/io/github/cursomicroservicos/msavaliadorcredito/MsavaliadorcreditoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/logs/log-file.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/MscartoesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/application/CartaoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/application/CartoesResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/application/ClienteCartaoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/application/representation/CartaoSaveRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/application/representation/CartoesPorClienteResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/domain/BandeiraCartao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/domain/Cartao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/domain/ClienteCartao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/domain/DadosSolicitacaoEmissaoCartao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/infra/mqueue/EmissaoCartaoSubscriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/infra/repository/CartaoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/java/io/github/cursomicroservicos/mscartoes/infra/repository/ClienteCartaoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mscartoes/src/test/java/io/github/cursomicroservicos/mscartoes/MscartoesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/logs/log-file.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/src/main/java/io/github/cursomicroservicos/msclientes/MsclientesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/src/main/java/io/github/cursomicroservicos/msclientes/application/ClienteResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/src/main/java/io/github/cursomicroservicos/msclientes/application/ClienteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/src/main/java/io/github/cursomicroservicos/msclientes/application/representation/ClienteSaveRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/src/main/java/io/github/cursomicroservicos/msclientes/domain/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/src/main/java/io/github/cursomicroservicos/msclientes/infra/repository/ClienteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../msclientes/src/test/java/io/github/cursomicroservicos/msclientes/MsclientesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/cursomicroservicos/mscloudgateway/MscloudgatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/github/cursomicroservicos/mscloudgateway/MscloudgatewayApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CRQO6j7OBuMSVySyVCk3G8j5V4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/michel/projetos/curso-microservicos/mscloudgateway/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "0b1644d4a682baa71a3dbc2c3b8d54e9"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MscloudgatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mscloudgateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.cursomicroservicos.mscloudgateway.MscloudgatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d15e1c7f-1df4-4a1c-a9cf-0d62b2d127e5" name="Changes" comment="" />
+      <created>1658762882690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658762882690</updated>
+      <workItem from="1658762884032" duration="3108000" />
+      <workItem from="1658799990575" duration="1940000" />
+      <workItem from="1658833599315" duration="5582000" />
+      <workItem from="1658864143991" duration="1116000" />
+      <workItem from="1658882570824" duration="1430000" />
+      <workItem from="1658920605985" duration="663000" />
+      <workItem from="1659007531696" duration="1346000" />
+      <workItem from="1659027494924" duration="659000" />
+      <workItem from="1659438270221" duration="1599000" />
+      <workItem from="1659524669216" duration="1871000" />
+      <workItem from="1659613321725" duration="723000" />
+      <workItem from="1659699337416" duration="1005000" />
+      <workItem from="1660132457011" duration="432000" />
+      <workItem from="1660216440659" duration="601000" />
+      <workItem from="1660562774830" duration="599000" />
+      <workItem from="1661950882931" duration="601000" />
+      <workItem from="1662052636960" duration="601000" />
+      <workItem from="1662378156037" duration="1161000" />
+      <workItem from="1662382022105" duration="1380000" />
+      <workItem from="1662396880594" duration="1285000" />
+      <workItem from="1662462639305" duration="796000" />
+      <workItem from="1662483729193" duration="839000" />
+      <workItem from="1662724513726" duration="788000" />
+      <workItem from="1662725374761" duration="526000" />
+      <workItem from="1662979211642" duration="2940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
